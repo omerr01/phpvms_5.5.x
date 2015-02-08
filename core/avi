@@ -1,0 +1,14 @@
+<?php
+$avi = "Avi the king of the would";
+echo $avi;
+
+
+
+
+
+
+
+
+
+
+?>
